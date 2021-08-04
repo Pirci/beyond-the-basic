@@ -1,0 +1,88 @@
+/* Core Style */
+body {
+  background-color: lightblue;
+  font-size: 20px;
+  margin: 0;
+}
+
+/* Section five div style */
+
+.first {
+  border: solid 3px red;
+  background-color: white;
+}
+
+.second {
+  border: solid 3px red;
+  margin: 40px;
+  background-color: white;
+}
+
+.third {
+  padding: 40px;
+  background-color: white;
+}
+
+.fourth {
+  margin: 40px;
+  padding: 20px;
+  background-color: white;
+}
+
+.fiveth {
+  margin: 40px;
+  border: solid 20px red;
+  padding: 20px;
+  background-color: white;
+}
+/* Header Style */
+header {
+  color: white;
+  background-color: darkorange;
+  padding: 30px;
+}
+
+img {
+  border: solid 5px #fff;
+  border-radius: 30px;
+  width: 150px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+/* Menu Section Style */
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  width: 150px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: darkorange;
+  padding: 10px 20px;
+  margin: 10px;
+  text-align: left;
+  list-style-type: none;
+}
+
+h3 {
+  font-size: 1.17em;
+}
+
+ol {
+  background-color: lightslategrey;
+}
+
+/* Footer Style */
+footer {
+  background-color: darkcyan;
+  color: white;
+  text-align: center;
+  border: solid 10px darkorange;
+  padding: 20px;
+  margin: 20px;
+}
