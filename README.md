@@ -12,9 +12,9 @@ Preview: https://pirci.github.io/beyond-the-basic/
 
 ## What I Learned:
 
-- Table element implement and style for best visibility.
+
 - Semantic Elements in HTML used (header, footler)
-- CSS selectors used (:first-child)
+
 
 ## Possible Improvements
 
