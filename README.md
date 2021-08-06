@@ -1,8 +1,7 @@
-### Seytech Fullstack Software Developer Bootcamp
+### Beyond the Basic
 
-> HTML & CSS #1st Practice Project (Beyond the Basics).
+> HTML & CSS Beyond the Basics Project.
 
-From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
 
 ## Live Demo
 
