@@ -2,18 +2,15 @@
 
 > HTML & CSS Beyond the Basics Project.
 
-
 ## Live Demo
 
 Preview: https://pirci.github.io/beyond-the-basic/
 
-![screencapture-127-0-0-1-5500-index-html-2021-08-04-03_47_32](https://user-images.githubusercontent.com/43238947/128108930-1d6a7324-6da4-4a22-b0cb-7987be050a0f.png)
+![screencapture-pirci-github-io-beyond-the-basic-2021-08-07-04_50_04](https://user-images.githubusercontent.com/43238947/128585607-47088ef8-3684-4e8c-acb2-62d1b54480d0.png)
 
 ## What I Learned:
 
-
 - Semantic Elements in HTML used (header, footler)
-
 
 ## Possible Improvements
 
