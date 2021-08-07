@@ -69,6 +69,16 @@ ul {
   list-style-type: none;
 }
 
+.menu li:hover {
+  background-color: darkslategrey;
+  cursor: pointer;
+}
+
+.menu a {
+  text-decoration: none;
+  color: white;
+}
+
 h3 {
   font-size: 1.17em;
 }
